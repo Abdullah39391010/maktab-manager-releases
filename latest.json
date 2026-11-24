@@ -1,12 +1,14 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "sizeMB": 18.3,
-  "apk": "https://raw.githubusercontent.com/Abdullah39391010/maktab-manager-releases/main/apk/maktab-manager-v1.5.apk",
-  "sha256": "04f56277ceea661b0119f7ae5fd39c050836c442c6c7c1e900bd53734ade973d",
+  "apk": "https://raw.githubusercontent.com/Abdullah39391010/maktab-manager-releases/main/apk/maktab-manager-v1.6.apk",
+  "sha256": "dd0790b0b6221e825fb4b38624eaf47956e7d62685e1e66c74ab9bdf319b40b8",
   "notes": [
-    "اردو / انگریزی زبان: ترتیبات ← زبان",
-    "Urdu / English language: Settings → Language"
+    "ہجری تاریخ",
+    "شیشے جیسا نیا ڈیزائن",
+    "طالب علم کی ترمیم اور حذف",
+    "ڈویلپر کی معلومات"
   ],
   "force": false
 }
