@@ -1,0 +1,9 @@
+{
+  "versionCode": 5,
+  "versionName": "1.4",
+  "sizeMB": 18.3,
+  "apk": "https://raw.githubusercontent.com/Abdullah39391010/maktab-manager-releases/main/apk/maktab-manager-v1.4.apk",
+  "sha256": "78c2049de46dad49c36baad6543a2840debdf57e75fe5afbe8add43b88374b58",
+  "notes": ["نئے ورژن کی اطلاع اور ایپ کے اندر ڈاؤن لوڈ", "آن لائن سنک، والدین کا صفحہ، PDF رپورٹس اور مزید"],
+  "force": false
+}
