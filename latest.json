@@ -1,14 +1,14 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "sizeMB": 18.3,
-  "apk": "https://raw.githubusercontent.com/Abdullah39391010/maktab-manager-releases/main/apk/maktab-manager-v1.6.apk",
-  "sha256": "dd0790b0b6221e825fb4b38624eaf47956e7d62685e1e66c74ab9bdf319b40b8",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "sizeMB": 18.5,
+  "apk": "https://raw.githubusercontent.com/Abdullah39391010/maktab-manager-releases/main/apk/maktab-manager-v1.7.apk",
+  "sha256": "984a659accc7ab2c49573dc7da52c35ff012d4455957404ddf5f5416fd9aa2aa",
   "notes": [
-    "ہجری تاریخ",
-    "شیشے جیسا نیا ڈیزائن",
-    "طالب علم کی ترمیم اور حذف",
-    "ڈویلپر کی معلومات"
+    "واپس کا بٹن پچھلی اسکرین پر لے جاتا ہے",
+    "ڈویلپر کی مکمل معلومات",
+    "اردو میں سب کچھ اردو",
+    "واٹس ایپ کا اصل نشان اور نئے آئیکن"
   ],
   "force": false
 }
