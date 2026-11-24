@@ -7,4 +7,4 @@ To publish a new version:
 2. Add the file to `apk/` (for example `apk/maktab-manager-v1.5.apk`).
 3. Update `latest.json`: `versionCode`, `versionName`, `sizeMB`, `apk` link, `sha256` and `notes`. Set `force` to `true` only when the old version must not be used any more.
 
-Latest download: [maktab-manager-v1.4.apk](apk/maktab-manager-v1.4.apk)
+Latest download: [maktab-manager-v1.5.apk](apk/maktab-manager-v1.5.apk)
