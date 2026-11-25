@@ -1,14 +1,12 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "sizeMB": 18.4,
-  "apk": "https://raw.githubusercontent.com/Abdullah39391010/maktab-manager-releases/main/apk/maktab-manager-v1.8.apk",
-  "sha256": "cab23cf2023c1afb5e019833855e10dd360c3b27b2b7fbe23a79cda40be45610",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "sizeMB": 18.3,
+  "apk": "https://raw.githubusercontent.com/Abdullah39391010/maktab-manager-releases/main/apk/maktab-manager-v1.9.apk",
+  "sha256": "071e8c0417ea09cdc246bf3dd480ec4bfcc0f2fbf185959261e4ffcb6fca0913",
   "notes": [
-    "روزانہ رپورٹ: حاضری، نماز اور سبق",
-    "واٹس ایپ پیغامات نئے انداز میں، نمایاں سرخیوں کے ساتھ",
-    "مکتب کا لوگو، فون اور پتہ PDF پر",
-    "صرف انگریزی تاریخ"
+    "ڈویلپر کی معلومات نئے انداز میں",
+    "ڈویلپر سے واٹس ایپ، کال اور ای میل پر رابطہ"
   ],
   "force": false
 }
