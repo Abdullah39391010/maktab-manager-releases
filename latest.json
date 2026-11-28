@@ -1,12 +1,12 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "sizeMB": 18.3,
-  "apk": "https://raw.githubusercontent.com/Abdullah39391010/maktab-manager-releases/main/apk/maktab-manager-v2.0.apk",
-  "sha256": "a917a7646b4bc52b44ddcd5aa4038cafa7ced7a326bf55deb1081831c6acda20",
+  "versionCode": 12,
+  "versionName": "2.1",
+  "sizeMB": 18.5,
+  "apk": "https://raw.githubusercontent.com/Abdullah39391010/maktab-manager-releases/main/apk/maktab-manager-v2.1.apk",
+  "sha256": "fc337997de239d7ba780f2684cac76d3417e1a5a02640ae0f7acdf6f94df84fb",
   "notes": [
-    "نئی ابتدائی اسکرین: اوپر مکتب کا نام",
-    "دعا اور حدیث کارڈ کے رنگ درست"
+    "لائسنس اسکرین: پہلی بار لائسنس کی درج کریں",
+    "کتاب کے صفحے سے مکتب کا نام ہٹا دیا گیا"
   ],
   "force": false
 }
